@@ -1,0 +1,16 @@
+C:\Users\veron\source\repos\Functions\UserNameDatatask\obj\Debug\net5.0\UserNameDatatask.csproj.AssemblyReference.cache
+C:\Users\veron\source\repos\Functions\UserNameDatatask\obj\Debug\net5.0\UserNameDatatask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veron\source\repos\Functions\UserNameDatatask\obj\Debug\net5.0\UserNameDatatask.AssemblyInfoInputs.cache
+C:\Users\veron\source\repos\Functions\UserNameDatatask\obj\Debug\net5.0\UserNameDatatask.AssemblyInfo.cs
+C:\Users\veron\source\repos\Functions\UserNameDatatask\obj\Debug\net5.0\UserNameDatatask.csproj.CoreCompileInputs.cache
+C:\Users\veron\source\repos\Functions\UserNameDatatask\bin\Debug\net5.0\UserNameDatatask.exe
+C:\Users\veron\source\repos\Functions\UserNameDatatask\bin\Debug\net5.0\UserNameDatatask.deps.json
+C:\Users\veron\source\repos\Functions\UserNameDatatask\bin\Debug\net5.0\UserNameDatatask.runtimeconfig.json
+C:\Users\veron\source\repos\Functions\UserNameDatatask\bin\Debug\net5.0\UserNameDatatask.runtimeconfig.dev.json
+C:\Users\veron\source\repos\Functions\UserNameDatatask\bin\Debug\net5.0\UserNameDatatask.dll
+C:\Users\veron\source\repos\Functions\UserNameDatatask\bin\Debug\net5.0\ref\UserNameDatatask.dll
+C:\Users\veron\source\repos\Functions\UserNameDatatask\bin\Debug\net5.0\UserNameDatatask.pdb
+C:\Users\veron\source\repos\Functions\UserNameDatatask\obj\Debug\net5.0\UserNameDatatask.dll
+C:\Users\veron\source\repos\Functions\UserNameDatatask\obj\Debug\net5.0\ref\UserNameDatatask.dll
+C:\Users\veron\source\repos\Functions\UserNameDatatask\obj\Debug\net5.0\UserNameDatatask.pdb
+C:\Users\veron\source\repos\Functions\UserNameDatatask\obj\Debug\net5.0\UserNameDatatask.genruntimeconfig.cache
